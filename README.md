@@ -1,7 +1,7 @@
 # 簡単なバックアップツール
 DiscordのWebHookと連帯させた簡単なバックアップツールです。
 
-
+app-noDiscordはDiscordとの連帯をなくしたバージョンです
 
 ### 使い方
 richをインストールする
